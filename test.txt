@@ -1,0 +1,3 @@
+COMBO5 
+
+https://function2jg1987.azurewebsites.net/api/HttpTrigger1
